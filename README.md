@@ -201,35 +201,7 @@ Email: ftorres@unap.edu.pe
 
 ---
 
-## Citation
 
-If you use this code or methodology in your research, please cite:
-
-### BibTeX Format
-
-```bibtex
-@article{vilca2025bubbles,
-  title={Comparative Analysis of Financial Bubble Detection Models: Evidence from Latin American Markets},
-  author={Vilca Chambilla, Briggitte Jhosselyn and Quispe Vargas, Renato and Torres Cruz, Fred},
-  journal={IEEE Conference Proceedings},
-  year={2025},
-  institution={Universidad Nacional del Altiplano, Puno}
-}
-```
-
-### IEEE Format
-
-```
-B. J. Vilca Chambilla, R. Quispe Vargas, and F. Torres Cruz, "Comparative Analysis of Financial Bubble Detection Models: Evidence from Latin American Markets," in Proc. IEEE Conference, 2025.
-```
-
-### APA Format
-
-```
-Vilca Chambilla, B. J., Quispe Vargas, R., & Torres Cruz, F. (2025). Comparative Analysis of Financial Bubble Detection Models: Evidence from Latin American Markets. IEEE Conference Proceedings.
-```
-
----
 
 ## Data Sources
 
